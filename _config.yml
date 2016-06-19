@@ -1,0 +1,18 @@
+analytics: {}
+color:
+  brandColors:
+    - '#FFFFFF'
+    - '#CD5E4A'
+    - '#84A7DD'
+    - '#13090A'
+    - '#3C4B14'
+  brandStrength: 0.994369
+  lightness: 0.903799
+  rhythmicContrast: 0.301247
+  saturation: 0.723165
+cta: {}
+layout_spectrum: 0.021291
+name: 'Nihongopod.com '
+opengraph: {}
+purpose: {}
+typography_spectrum: 0.768018
